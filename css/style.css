@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#red{
+    color: white;
+}
+
+#red:hover
+{
+color: green !important;
+transition: 0.3s !important;
+}
+ul li a{
+    margin-left: 30px;
+}
